@@ -5,4 +5,4 @@
 # Testing getLogs()
 FROM ubuntu
 
-CMD ["echo", "Hello!"]
+CMD ["echo", "Hello World from web!"]
