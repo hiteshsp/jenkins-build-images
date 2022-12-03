@@ -4,6 +4,7 @@
 # Testing getKind()
 # Testing getLogs()
 # testing iterative for loop
+# Getclass for entry
 FROM ubuntu
 
 CMD ["echo", "Hello!"]
