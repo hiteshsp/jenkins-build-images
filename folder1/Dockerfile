@@ -4,7 +4,7 @@
 # Testing getKind()
 # Testing getLogs()
 # testing iterative for loop
-# Getclass for entry
+# getClass() for entry.affectFiles
 FROM ubuntu
 
 CMD ["echo", "Hello!"]
