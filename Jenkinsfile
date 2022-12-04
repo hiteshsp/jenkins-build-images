@@ -25,7 +25,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/hiteshsp/jenkins-build-images.git', branch: 'main'
+                checkout scm
             }
         }
        stage('Changeset') {
